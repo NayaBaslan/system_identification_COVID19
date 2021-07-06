@@ -1,0 +1,3 @@
+[submodule "covid-19-germany-gae"]
+	path = covid-19-germany-gae
+	url = git@github.com:jgehrcke/covid-19-germany-gae.git
